@@ -8,4 +8,6 @@ $ git clone https://github.com/TrustMee123/PSQLi
 $ cd PSQLi
 $ unzip PSQLi
 $ cd PSQLi
+$ ./psqli.sh
+
 
